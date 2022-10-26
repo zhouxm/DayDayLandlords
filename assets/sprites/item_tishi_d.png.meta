@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "9b34d8cf-023b-4e2e-b7f7-59b3621ab7db",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 156,
+  "height": 72,
+  "platformSettings": {},
   "subMetas": {
     "item_tishi_d": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9abf0e3b-7445-4741-b1bb-13f539f26381",
       "rawTextureUuid": "9b34d8cf-023b-4e2e-b7f7-59b3621ab7db",
       "trimType": "auto",

@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "51ca77d6-afdf-4254-b574-f73e3deaa917",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 304,
+  "height": 394,
+  "platformSettings": {},
   "subMetas": {
     "farmer2_win": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b22e1f5a-50de-43c1-862e-3f582f866ead",
       "rawTextureUuid": "51ca77d6-afdf-4254-b574-f73e3deaa917",
       "trimType": "auto",

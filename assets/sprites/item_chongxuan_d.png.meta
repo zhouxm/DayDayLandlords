@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "b134c309-f383-4b9b-b3b0-9008bcc3f61b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 156,
+  "height": 72,
+  "platformSettings": {},
   "subMetas": {
     "item_chongxuan_d": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "23d191f7-34ac-46a6-8e30-ba17f27d244c",
       "rawTextureUuid": "b134c309-f383-4b9b-b3b0-9008bcc3f61b",
       "trimType": "auto",

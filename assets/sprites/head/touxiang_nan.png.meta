@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "5c69038f-0835-4d79-9269-f807e63466f9",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 75,
+  "platformSettings": {},
   "subMetas": {
     "touxiang_nan": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "66cb0199-a663-41d1-b231-f655dd18424f",
       "rawTextureUuid": "5c69038f-0835-4d79-9269-f807e63466f9",
       "trimType": "auto",

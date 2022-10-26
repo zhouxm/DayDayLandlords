@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "689df6da-55b6-4611-b749-c9fbee7a1ada",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 158,
+  "height": 74,
+  "platformSettings": {},
   "subMetas": {
     "item_zhunbei": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bcbfb370-e5ce-471c-aebb-d06a629ca2cf",
       "rawTextureUuid": "689df6da-55b6-4611-b749-c9fbee7a1ada",
       "trimType": "auto",

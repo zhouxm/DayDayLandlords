@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "5dcc2da8-299e-49e7-919b-90d7d5ee4804",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 518,
+  "height": 130,
+  "platformSettings": {},
   "subMetas": {
     "gameresult_win_tiaofu": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "de6c90c5-5565-429d-b55f-7199076fc5a9",
       "rawTextureUuid": "5dcc2da8-299e-49e7-919b-90d7d5ee4804",
       "trimType": "auto",

@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "fdb13e8c-8a9a-4c40-adc5-13024d965451",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 124,
+  "platformSettings": {},
   "subMetas": {
     "avator_bg0": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f22e1e28-4f76-4aeb-9f44-6abbcdd1bb9c",
       "rawTextureUuid": "fdb13e8c-8a9a-4c40-adc5-13024d965451",
       "trimType": "auto",

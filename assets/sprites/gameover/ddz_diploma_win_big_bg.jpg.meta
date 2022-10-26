@@ -1,12 +1,18 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.4",
   "uuid": "0b719ebf-5654-48ae-b4f7-80f23ae329d4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 909,
+  "height": 512,
+  "platformSettings": {},
   "subMetas": {
     "ddz_diploma_win_big_bg": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c73522ac-bc40-4a26-a2b5-e02ee2145316",
       "rawTextureUuid": "0b719ebf-5654-48ae-b4f7-80f23ae329d4",
       "trimType": "auto",
