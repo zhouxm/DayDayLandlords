@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "307be859-70c8-4133-aaa4-3faa20ade0af",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "avator_bg1": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "04665eeb-ac1f-4f17-980e-cc993b5409de",
+      "importer": "sprite-frame",
       "rawTextureUuid": "307be859-70c8-4133-aaa4-3faa20ade0af",
       "trimType": "auto",
       "trimThreshold": 1,

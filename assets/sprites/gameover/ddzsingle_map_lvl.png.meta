@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "39c7b5d5-5e72-4c4a-a1da-07b485f4982f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ddzsingle_map_lvl": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1f0609a1-966a-4ef1-9138-752448637d00",
+      "importer": "sprite-frame",
       "rawTextureUuid": "39c7b5d5-5e72-4c4a-a1da-07b485f4982f",
       "trimType": "auto",
       "trimThreshold": 1,
